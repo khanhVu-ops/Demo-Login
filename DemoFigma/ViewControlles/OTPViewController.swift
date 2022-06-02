@@ -11,7 +11,6 @@ class OTPViewController: UIViewController {
     @IBOutlet weak var OTPView: UIView!
     @IBOutlet weak var resendBtn: UIButton!
     
-    var diction : [Dict] = []
     var arrayTF : [CustomTextField] = []
     var indexTF: Int = 0
     var check = true

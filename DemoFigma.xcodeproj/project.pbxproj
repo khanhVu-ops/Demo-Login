@@ -8,11 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		0C1D06A8FB689F5200E94CEA /* Pods_DemoFigma.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F7682369C6FA1B627CF5A31 /* Pods_DemoFigma.framework */; };
-		3326A0812845F01F00B8BEA1 /* ViewTextFieldTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3326A07F2845F01F00B8BEA1 /* ViewTextFieldTableViewCell.swift */; };
-		3326A0822845F01F00B8BEA1 /* ViewTextFieldTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3326A0802845F01F00B8BEA1 /* ViewTextFieldTableViewCell.xib */; };
-		3326A0882845F55E00B8BEA1 /* ViewBtnSubmitTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3326A0862845F55E00B8BEA1 /* ViewBtnSubmitTableViewCell.swift */; };
-		3326A0892845F55E00B8BEA1 /* ViewBtnSubmitTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3326A0872845F55E00B8BEA1 /* ViewBtnSubmitTableViewCell.xib */; };
-		3326A09128461F9200B8BEA1 /* ModelDict.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3326A09028461F9200B8BEA1 /* ModelDict.swift */; };
 		3336EDC628041FCC00D26D5C /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3336EDC528041FCC00D26D5C /* CustomTextField.swift */; };
 		334A1BBA280168DD003FC940 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 334A1BB9280168DD003FC940 /* AppDelegate.swift */; };
 		334A1BBC280168DD003FC940 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 334A1BBB280168DD003FC940 /* SceneDelegate.swift */; };
@@ -22,19 +17,10 @@
 		338F3BCA28029FFC00B82CEC /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 338F3BC928029FFC00B82CEC /* SignUpViewController.swift */; };
 		33AB1EB42845AFBF0054A424 /* APIUtilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AB1EB32845AFBF0054A424 /* APIUtilities.swift */; };
 		33F0DEDA2805949E00AB7F5A /* OTPViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F0DED92805949E00AB7F5A /* OTPViewController.swift */; };
-		33F104E02845BF8D008BB03C /* NewSignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F104DF2845BF8D008BB03C /* NewSignUpViewController.swift */; };
-		33F104E32845C5CE008BB03C /* CustomTabbarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F104E22845C5CE008BB03C /* CustomTabbarViewController.swift */; };
-		33F104E62845C82B008BB03C /* NewViewSignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F104E52845C82B008BB03C /* NewViewSignInViewController.swift */; };
-		33F104EB2845D795008BB03C /* SignUpTableViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F104EA2845D795008BB03C /* SignUpTableViewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2C329C85894FC01FB6594F8A /* Pods-DemoFigma.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoFigma.debug.xcconfig"; path = "Target Support Files/Pods-DemoFigma/Pods-DemoFigma.debug.xcconfig"; sourceTree = "<group>"; };
-		3326A07F2845F01F00B8BEA1 /* ViewTextFieldTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewTextFieldTableViewCell.swift; sourceTree = "<group>"; };
-		3326A0802845F01F00B8BEA1 /* ViewTextFieldTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewTextFieldTableViewCell.xib; sourceTree = "<group>"; };
-		3326A0862845F55E00B8BEA1 /* ViewBtnSubmitTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewBtnSubmitTableViewCell.swift; sourceTree = "<group>"; };
-		3326A0872845F55E00B8BEA1 /* ViewBtnSubmitTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewBtnSubmitTableViewCell.xib; sourceTree = "<group>"; };
-		3326A09028461F9200B8BEA1 /* ModelDict.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelDict.swift; sourceTree = "<group>"; };
 		3336EDC528041FCC00D26D5C /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		334A1BB6280168DD003FC940 /* DemoFigma.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoFigma.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		334A1BB9280168DD003FC940 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -47,10 +33,6 @@
 		33A56654284700B7001F37E6 /* DemoFigma.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DemoFigma.entitlements; sourceTree = "<group>"; };
 		33AB1EB32845AFBF0054A424 /* APIUtilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIUtilities.swift; sourceTree = "<group>"; };
 		33F0DED92805949E00AB7F5A /* OTPViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OTPViewController.swift; sourceTree = "<group>"; };
-		33F104DF2845BF8D008BB03C /* NewSignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewSignUpViewController.swift; sourceTree = "<group>"; };
-		33F104E22845C5CE008BB03C /* CustomTabbarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabbarViewController.swift; sourceTree = "<group>"; };
-		33F104E52845C82B008BB03C /* NewViewSignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewSignInViewController.swift; sourceTree = "<group>"; };
-		33F104EA2845D795008BB03C /* SignUpTableViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpTableViewViewController.swift; sourceTree = "<group>"; };
 		8F7682369C6FA1B627CF5A31 /* Pods_DemoFigma.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DemoFigma.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2A39168B1B730BCF6C3EEF3 /* Pods-DemoFigma.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoFigma.release.xcconfig"; path = "Target Support Files/Pods-DemoFigma/Pods-DemoFigma.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,24 +57,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		3326A08B2845F56800B8BEA1 /* TextfieldCell */ = {
-			isa = PBXGroup;
-			children = (
-				3326A07F2845F01F00B8BEA1 /* ViewTextFieldTableViewCell.swift */,
-				3326A0802845F01F00B8BEA1 /* ViewTextFieldTableViewCell.xib */,
-			);
-			path = TextfieldCell;
-			sourceTree = "<group>";
-		};
-		3326A08C2845F57E00B8BEA1 /* ButtonCell */ = {
-			isa = PBXGroup;
-			children = (
-				3326A0862845F55E00B8BEA1 /* ViewBtnSubmitTableViewCell.swift */,
-				3326A0872845F55E00B8BEA1 /* ViewBtnSubmitTableViewCell.xib */,
-			);
-			path = ButtonCell;
-			sourceTree = "<group>";
-		};
 		334A1BAD280168DD003FC940 = {
 			isa = PBXGroup;
 			children = (
@@ -115,65 +79,34 @@
 			isa = PBXGroup;
 			children = (
 				33A56654284700B7001F37E6 /* DemoFigma.entitlements */,
-				334A1BB9280168DD003FC940 /* AppDelegate.swift */,
-				334A1BBB280168DD003FC940 /* SceneDelegate.swift */,
-				33B5EB26284720550037E5B6 /* View Old */,
-				33F104E82845C837008BB03C /* NewControllers */,
+				338DF0782848EA2D00374C40 /* Apps */,
+				33B5EB26284720550037E5B6 /* ViewControlles */,
 				334A1BBF280168DD003FC940 /* Main.storyboard */,
 				334A1BC2280168DE003FC940 /* Assets.xcassets */,
+				33AB1EB32845AFBF0054A424 /* APIUtilities.swift */,
 				334A1BC4280168DE003FC940 /* LaunchScreen.storyboard */,
 				334A1BC7280168DE003FC940 /* Info.plist */,
-				33AB1EB32845AFBF0054A424 /* APIUtilities.swift */,
-				3326A09028461F9200B8BEA1 /* ModelDict.swift */,
 			);
 			path = DemoFigma;
 			sourceTree = "<group>";
 		};
-		33B5EB26284720550037E5B6 /* View Old */ = {
+		338DF0782848EA2D00374C40 /* Apps */ = {
+			isa = PBXGroup;
+			children = (
+				334A1BB9280168DD003FC940 /* AppDelegate.swift */,
+				334A1BBB280168DD003FC940 /* SceneDelegate.swift */,
+			);
+			path = Apps;
+			sourceTree = "<group>";
+		};
+		33B5EB26284720550037E5B6 /* ViewControlles */ = {
 			isa = PBXGroup;
 			children = (
 				338F3BC928029FFC00B82CEC /* SignUpViewController.swift */,
 				33F0DED92805949E00AB7F5A /* OTPViewController.swift */,
 				3336EDC528041FCC00D26D5C /* CustomTextField.swift */,
 			);
-			path = "View Old";
-			sourceTree = "<group>";
-		};
-		33B5EB28284720AF0037E5B6 /* Not Use */ = {
-			isa = PBXGroup;
-			children = (
-				33F104E52845C82B008BB03C /* NewViewSignInViewController.swift */,
-				33F104DF2845BF8D008BB03C /* NewSignUpViewController.swift */,
-				33F104E22845C5CE008BB03C /* CustomTabbarViewController.swift */,
-			);
-			path = "Not Use";
-			sourceTree = "<group>";
-		};
-		33B5EB2A284720CB0037E5B6 /* View Sign Up */ = {
-			isa = PBXGroup;
-			children = (
-				33F104ED2845D7D5008BB03C /* Cells */,
-				33F104EA2845D795008BB03C /* SignUpTableViewViewController.swift */,
-			);
-			path = "View Sign Up";
-			sourceTree = "<group>";
-		};
-		33F104E82845C837008BB03C /* NewControllers */ = {
-			isa = PBXGroup;
-			children = (
-				33B5EB2A284720CB0037E5B6 /* View Sign Up */,
-				33B5EB28284720AF0037E5B6 /* Not Use */,
-			);
-			path = NewControllers;
-			sourceTree = "<group>";
-		};
-		33F104ED2845D7D5008BB03C /* Cells */ = {
-			isa = PBXGroup;
-			children = (
-				3326A08B2845F56800B8BEA1 /* TextfieldCell */,
-				3326A08C2845F57E00B8BEA1 /* ButtonCell */,
-			);
-			path = Cells;
+			path = ViewControlles;
 			sourceTree = "<group>";
 		};
 		A45B138CAA6945FC339357B2 /* Pods */ = {
@@ -246,8 +179,6 @@
 			files = (
 				334A1BC6280168DE003FC940 /* LaunchScreen.storyboard in Resources */,
 				334A1BC3280168DE003FC940 /* Assets.xcassets in Resources */,
-				3326A0822845F01F00B8BEA1 /* ViewTextFieldTableViewCell.xib in Resources */,
-				3326A0892845F55E00B8BEA1 /* ViewBtnSubmitTableViewCell.xib in Resources */,
 				334A1BC1280168DD003FC940 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,19 +232,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				33F104E62845C82B008BB03C /* NewViewSignInViewController.swift in Sources */,
-				3326A09128461F9200B8BEA1 /* ModelDict.swift in Sources */,
 				33F0DEDA2805949E00AB7F5A /* OTPViewController.swift in Sources */,
-				33F104E02845BF8D008BB03C /* NewSignUpViewController.swift in Sources */,
-				33F104E32845C5CE008BB03C /* CustomTabbarViewController.swift in Sources */,
 				334A1BBA280168DD003FC940 /* AppDelegate.swift in Sources */,
 				338F3BCA28029FFC00B82CEC /* SignUpViewController.swift in Sources */,
-				3326A0882845F55E00B8BEA1 /* ViewBtnSubmitTableViewCell.swift in Sources */,
 				334A1BBC280168DD003FC940 /* SceneDelegate.swift in Sources */,
 				3336EDC628041FCC00D26D5C /* CustomTextField.swift in Sources */,
-				33F104EB2845D795008BB03C /* SignUpTableViewViewController.swift in Sources */,
 				33AB1EB42845AFBF0054A424 /* APIUtilities.swift in Sources */,
-				3326A0812845F01F00B8BEA1 /* ViewTextFieldTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
