@@ -22,7 +22,7 @@ class SignUpViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("Testt 2")
         setupViews()
         
     }
